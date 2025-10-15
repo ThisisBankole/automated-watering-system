@@ -1,6 +1,6 @@
 # Automated Watering System
 
-This project uses an M5Stack devices to build an automated watering system that monitors environmental conditions and soil moisture, and controls a water pump accordingly. I built this for one of my plants as a proof of concept. I plan to repeat the process for the others. 
+This project uses M5Stack devices (see details under hardware requirements) to build an automated watering system that monitors environmental conditions and soil moisture, and controls a water pump accordingly. I built this for one of my plants as a proof of concept. I plan to repeat the process for the others. 
 
 
 
