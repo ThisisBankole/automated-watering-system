@@ -43,6 +43,4 @@ Flash the `watering_system.py` script to your M5Stack device. Connect the ENV3 a
 
 See [`watering_system.py`](https://github.com/ThisisBankole/automated-watering-system/blob/main/watering_system.py) for the complete implementation.
 
-## License
 
-MIT License (or specify your preferred license here)
